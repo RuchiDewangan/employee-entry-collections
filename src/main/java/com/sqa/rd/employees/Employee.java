@@ -12,7 +12,7 @@ package com.sqa.rd.employees;
  * <p>
  * //ADDD (description of core fields)
  * <p>
- * //ADDD (description of core methods)
+ * //ADDD (description of core methods) <<<<<<< HEAD
  *
  * @author Dewangan, Ruchi
  * @version 1.0.0

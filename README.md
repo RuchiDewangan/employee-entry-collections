@@ -10,6 +10,6 @@ This application redesigns the Employee Entry Application to include Collections
 * SQA
 * Testing
 
-*Java
-*Maven
-*Selenium
+* Java
+* Maven
+* Selenium
